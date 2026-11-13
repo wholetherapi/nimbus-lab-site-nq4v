@@ -1,0 +1,4 @@
+body { font-family: Georgia, serif; max-width: 52rem; margin: 3rem auto; line-height: 1.55; }
+h1 { font-size: 1.6rem; }
+.publication-entry { margin-bottom: 1.5rem; }
+.publication-entry .venue { color: #555; font-style: italic; }

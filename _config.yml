@@ -1,0 +1,17 @@
+title: Nimbus Systems Lab
+description: Research on efficient machine learning systems
+baseurl: ""
+url: "https://nimbus.example.org"
+markdown: kramdown
+
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
