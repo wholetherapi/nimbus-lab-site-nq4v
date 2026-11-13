@@ -1,10 +1,11 @@
 ---
-title: "Contrastive Alignment of Sensor Streams with Sparse Labels"
-venue: "ICML 2026"
-status: "accepted"
-authors: "Nadia Farouk, Priya Menon, Samuel Adeyemi"
+title: Contrastive Alignment of Sensor Streams with Sparse Labels
+venue: ICML 2026
+status: accepted
+authors: Nadia Farouk, Priya Menon, Samuel Adeyemi
 year: 2026
-pdf: "https://arxiv.org/abs/2601.09341"
+pdf: https://arxiv.org/abs/2601.09341
+bestscore: 0.8586
 ---
 
 Sparse label regimes dominate industrial sensor deployments. We align short
