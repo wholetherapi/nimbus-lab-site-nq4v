@@ -1,12 +1,10 @@
 ---
-title: Latency-Aware Speculative Decoding for Edge Translation
-venue: ACL 2026
-status: accepted
-authors: Nadia Farouk, Tobias Okafor, Lena Brennan
+title: "Latency-Aware Speculative Decoding for Edge Translation"
+venue: "ACL 2026"
+status: "accepted"
+authors: "Nadia Farouk, Tobias Okafor, Lena Brennan"
 year: 2026
-pdf: https://arxiv.org/abs/2602.04417
-codeurl: https://github.com/wholetherapi/nimbus-specdec-edge-nq4v
-bestscore: 34.9683
+pdf: "https://arxiv.org/abs/2602.04417"
 ---
 
 Speculative decoding is attractive for on-device translation, but a fixed draft
